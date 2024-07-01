@@ -1,0 +1,14 @@
+D:\c# assignments\FloatConvert\bin\Debug\net8.0\FloatConvert.exe
+D:\c# assignments\FloatConvert\bin\Debug\net8.0\FloatConvert.deps.json
+D:\c# assignments\FloatConvert\bin\Debug\net8.0\FloatConvert.runtimeconfig.json
+D:\c# assignments\FloatConvert\bin\Debug\net8.0\FloatConvert.dll
+D:\c# assignments\FloatConvert\bin\Debug\net8.0\FloatConvert.pdb
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.AssemblyInfoInputs.cache
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.AssemblyInfo.cs
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.csproj.CoreCompileInputs.cache
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.dll
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\refint\FloatConvert.dll
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.pdb
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.genruntimeconfig.cache
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\ref\FloatConvert.dll

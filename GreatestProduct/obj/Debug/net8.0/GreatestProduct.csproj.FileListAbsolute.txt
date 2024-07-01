@@ -1,0 +1,14 @@
+D:\c# assignments\GreatestProduct\bin\Debug\net8.0\GreatestProduct.exe
+D:\c# assignments\GreatestProduct\bin\Debug\net8.0\GreatestProduct.deps.json
+D:\c# assignments\GreatestProduct\bin\Debug\net8.0\GreatestProduct.runtimeconfig.json
+D:\c# assignments\GreatestProduct\bin\Debug\net8.0\GreatestProduct.dll
+D:\c# assignments\GreatestProduct\bin\Debug\net8.0\GreatestProduct.pdb
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.AssemblyInfoInputs.cache
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.AssemblyInfo.cs
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.csproj.CoreCompileInputs.cache
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.dll
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\refint\GreatestProduct.dll
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.pdb
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.genruntimeconfig.cache
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\ref\GreatestProduct.dll
