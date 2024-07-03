@@ -1,55 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System;
-using System;
-using System.Numerics;
-
-namespace FloatConvert
+﻿namespace FloatConvert
 {
-    class Program
+    /// <summary>
+    /// 
+    /// </summary>
+    class FloatConvertAdd
     {
-        static void Main()
-        {
-           
-            Console.Write("Enter the first float value: ");
-            float float1 = float.Parse(Console.ReadLine());
+        
 
-            Console.Write("Enter the second float value: ");
-            float float2 = float.Parse(Console.ReadLine());
-
-            // Converting integer part of float to int
-            int intPart1 = (int)float1;
-            int intPart2 = (int)float2;
-            // Seperating decimal values for given float.
-            float decPart1 = float1 - intPart1;
-            float decPart2 = float2 - intPart2;
-            // Sonverting integer part of float to binary values
-            string binaryIntPart1 = ConvertToBinary(intPart1);
-            string binaryIntPart2 = ConvertToBinary(intPart2);
-            // Converting decimal values to binary values
-            string binaryDecPart1 = ConvertDecimalToBinary(decPart1, 50); 
-            string binaryDecPart2 = ConvertDecimalToBinary(decPart2, 50); 
-            // Adding binary forms of integer part
-            string binaryIntSum = AddBinaryIntegers(binaryIntPart1, binaryIntPart2);
-            // Adding binary forms of decimal values
-            (string binaryDecSum, string carryOver) = AddBinaryDecimals(binaryDecPart1, binaryDecPart2);
-            // Since adding decimal values can give integer values we need to add that to integer part of the number.
-            if (carryOver == "1")
-            {
-                binaryIntSum = AddBinaryIntegers(binaryIntSum, "1");
-            }
-            //Converting binary forms to int and decimal
-            int intSum = ConvertBinaryToInt(binaryIntSum);
-            float decSum = ConvertBinaryToDecimal(binaryDecSum);
-            //Combining integer part and binary part to become resultent float.
-            float finalResult = intSum + decSum;
-            Console.WriteLine($"The result of the addition is: {finalResult}");
-        }
-
-        static string ConvertToBinary(int number)
+        public string ConvertToBinary(int number)
         {
             if (number == 0)
                 return "0";
@@ -63,7 +21,7 @@ namespace FloatConvert
             return result;
         }
         //
-        static string ConvertDecimalToBinary(float number, int precision)
+        public string ConvertDecimalToBinary(float number, int precision)
         {
             string result = "";
             while (number > 0 && precision > 0)
@@ -83,7 +41,7 @@ namespace FloatConvert
             return result;
         }
 
-        static string AddBinaryIntegers(string bin1, string bin2)
+        public string AddBinaryIntegers(string bin1, string bin2)
         { 
             int length = bin1.Length > bin2.Length ? bin1.Length : bin2.Length;
             bin1 = bin1.PadLeft(length, '0');
@@ -109,8 +67,8 @@ namespace FloatConvert
 
             return result;
         }
-
-        static (string, string) AddBinaryDecimals(string bin1, string bin2)
+        
+        public (float, string) AddBinaryDecimals(string bin1, string bin2)
         {
             
             int length = bin1.Length > bin2.Length ? bin1.Length : bin2.Length;
@@ -118,22 +76,22 @@ namespace FloatConvert
             bin2 = bin2.PadRight(length, '0');
 
             string result = "";
-            int carry = 0;
+            int decCarry = 0;
 
             for (int i = length - 1; i >= 0; i--)
             {
                 int bit1 = bin1[i] - '0';
                 int bit2 = bin2[i] - '0';
 
-                int sum = bit1 + bit2 + carry;
+                int sum = bit1 + bit2 + decCarry;
                 result = (sum % 2) + result;
-                carry = sum / 2;
+                decCarry = sum / 2;
             }
 
-            return (result, carry > 0 ? "1" : "0");
+            return (ConvertBinaryToDecimal(result), decCarry > 0 ? "1" : "0");
         }
 
-        static int ConvertBinaryToInt(string binary)
+        public int ConvertBinaryToInt(string binary)
         {
             int result = 0;
             for (int i = 0; i < binary.Length; i++)
@@ -146,7 +104,7 @@ namespace FloatConvert
             return result;
         }
 
-        static float ConvertBinaryToDecimal(string binary)
+        public float ConvertBinaryToDecimal(string binary)
         {
             float result = 0;
             for (int i = 0; i < binary.Length; i++)

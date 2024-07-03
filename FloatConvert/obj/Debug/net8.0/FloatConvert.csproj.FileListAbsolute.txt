@@ -12,3 +12,4 @@ D:\c# assignments\FloatConvert\obj\Debug\net8.0\refint\FloatConvert.dll
 D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.pdb
 D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.genruntimeconfig.cache
 D:\c# assignments\FloatConvert\obj\Debug\net8.0\ref\FloatConvert.dll
+D:\c# assignments\FloatConvert\obj\Debug\net8.0\FloatConvert.sourcelink.json

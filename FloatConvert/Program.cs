@@ -1,53 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-//using System;
-
-//namespace FloatConvert
-//{
-//    public class SumOfFloats
-//    {
-//        public static void Main(string[] args)
-//        {
-//            //the aim of this code block is to seperate the decimal and interger parts of the float
-//            //I tried to get the decimal part by using number-b it was not the exact decimal value
-//            //hence i used %
-//            float number1 = float.Parse(Console.ReadLine());
-//            Console.WriteLine(number1);
-//            float number2 = float.Parse(Console.ReadLine());
-//            int b = Convert.ToInt32(Math.Floor(number1));
-//            Console.WriteLine(b);
-//            //float deci=number1-b doesnot give exact decimal value
-//            float deci = number1 % b;
-//            int c = Convert.ToInt32(Math.Floor(number2));
-//            float deci2 = number2 % c;
-//            SumOfFloats a= new SumOfFloats();
-//            float intenumber1 = a.BinAdd(b);
-//            float intenumber2 = a.BinAdd(c);
-
-
-
-
-//        }
-
-//        public float BinAdd(float number)
-//        {
-//            int i;
-//            float bin = 0;
-//            int[] numberArray = new int[50];
-//            for (i = 0; number > 0; i++)
-//            {
-//                numberArray[i] = Convert.ToInt32(number % 2);
-//                number = number / 2;
-//            }
-//            Console.Write("Binary Represenation of the given Number : ");
-//            for (i = i - 1; i >= 0; i--)
-//            {
-//                bin += Convert.ToInt32(numberArray[i]) * Convert.ToInt16(Math.Pow(10, i));
-//            }
-//            return bin;
-//        }
-//        public float DeciAdd(float number)
-//        {
-
-//        }
-//    }
-//}
+﻿using FloatConvert;
+class Program
+{
+    static void Main()
+    {
+        FloatConvertAdd firstFloat = new FloatConvertAdd();
+        FloatConvertAdd secondFloat = new FloatConvertAdd();
+        Console.Write("Enter the first float value: ");
+        float float1 = float.Parse(Console.ReadLine());
+        Console.Write("Enter the second float value: ");
+        float float2 = float.Parse(Console.ReadLine());
+        // converting integer part of float to binary values
+        string binaryIntPart1 = firstFloat.ConvertToBinary((int)float1);
+        string binaryIntPart2 = secondFloat.ConvertToBinary((int)float2);
+        // Converting decimal values to binary values
+        string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 -(int)float1, 50);
+        string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2, 50);
+        // Adding binary forms of integer part
+        string binaryIntSum = secondFloat.AddBinaryIntegers(binaryIntPart1, binaryIntPart2);
+        // Adding binary forms of decimal values
+        (float binaryDecSum, string carryOver) = secondFloat.AddBinaryDecimals(binaryDecPart1, binaryDecPart2);
+        // Since adding decimal values can give integer values we need to add that to integer part of the number.
+        if (carryOver == "1")
+        {
+            binaryIntSum = secondFloat.AddBinaryIntegers(binaryIntSum, "1");
+        }
+        //Converting binary forms to int and decimal
+        int intSum = secondFloat.ConvertBinaryToInt(binaryIntSum);
+        Console.WriteLine($"The result of the addition is: {intSum + binaryDecSum}");
+    }
+}
