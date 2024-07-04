@@ -1,0 +1,118 @@
+D:\c# assignments\SubString Test\bin\Debug\net8.0\CoverletSourceRootsMapping_SubString Test
+D:\c# assignments\SubString Test\bin\Debug\net8.0\testhost.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubstringCount.deps.json
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubstringCount.runtimeconfig.json
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubstringCount.exe
+D:\c# assignments\SubString Test\bin\Debug\net8.0\testhost.exe
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubString Test.deps.json
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubString Test.runtimeconfig.json
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubString Test.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubString Test.pdb
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubstringCount.dll
+D:\c# assignments\SubString Test\bin\Debug\net8.0\SubstringCount.pdb
+D:\c# assignments\SubString Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.csproj.AssemblyReference.cache
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.AssemblyInfoInputs.cache
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.AssemblyInfo.cs
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.csproj.CoreCompileInputs.cache
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.sourcelink.json
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubStrin.A60EDA05.Up2Date
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.dll
+D:\c# assignments\SubString Test\obj\Debug\net8.0\refint\SubString Test.dll
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.pdb
+D:\c# assignments\SubString Test\obj\Debug\net8.0\SubString Test.genruntimeconfig.cache
+D:\c# assignments\SubString Test\obj\Debug\net8.0\ref\SubString Test.dll

@@ -12,3 +12,4 @@ D:\c# assignments\GreatestProduct\obj\Debug\net8.0\refint\GreatestProduct.dll
 D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.pdb
 D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.genruntimeconfig.cache
 D:\c# assignments\GreatestProduct\obj\Debug\net8.0\ref\GreatestProduct.dll
+D:\c# assignments\GreatestProduct\obj\Debug\net8.0\GreatestProduct.sourcelink.json
