@@ -2,11 +2,6 @@
 {
     /// <summary>
     /// This class provides methods, which work together to perform binary addition between two floats.
-    /// 2)convert decimal part of a float to a binary string format.
-    /// 3)Performs Binary addition to two integer parts in binary string format from two floats.
-    /// 4)Performs Binary addition to two decimal parts in binary string format from two floats.
-    /// 5)Converts binary strings of integer part to an int data type.
-    /// 6)Converts binary strings of decimal parts to a float datatype.
     /// </summary>
     public class FloatConvertAdd
     {

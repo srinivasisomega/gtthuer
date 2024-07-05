@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\c# assignments\\assignment c#-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|d:\\c# assignments\\assignment c#-1\\substringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|solutionrelative:substringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|d:\\c# assignments\\assignment c#-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|d:\\c# assignments\\assignment c#-1\\substringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|solutionrelative:substringcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "substringcheck.cs",
               "DocumentMoniker": "D:\\c# assignments\\assignment c#-1\\substringcheck.cs",
               "RelativeDocumentMoniker": "substringcheck.cs",
               "ToolTip": "D:\\c# assignments\\assignment c#-1\\substringcheck.cs",
               "RelativeToolTip": "substringcheck.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEQAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T09:19:31.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T09:19:31.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c# assignments\\assignment c#-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
