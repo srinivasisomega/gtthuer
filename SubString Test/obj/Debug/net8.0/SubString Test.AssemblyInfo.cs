@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubString Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf645cee914f93f2bfe41800227235fe4a8f6cc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b79daf803f1d465bfb77feca9e4c78122f5d92")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubString Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubString Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

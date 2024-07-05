@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "D:\\c# assignments\\assignment c#-1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A59E950A-DF72-4031-8B30-5AED69EE187E}|..\\FloatConvert\\FloatConvert.csproj|d:\\c# assignments\\floatconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59E950A-DF72-4031-8B30-5AED69EE187E}|..\\FloatConvert\\FloatConvert.csproj|d:\\c# assignments\\floatconvert\\floatconvertadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D3A5AE1-86EC-4582-A421-4BFA85DF8C8D}|..\\FloatConvertTest\\FloatConvertTest.csproj|d:\\c# assignments\\floatconverttest\\floataddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAE3FC2-6AC1-4BB1-BD4F-FC27DD1FFD6B}|..\\GreatestProduct\\GreatestProduct.csproj|d:\\c# assignments\\greatestproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAE3FC2-6AC1-4BB1-BD4F-FC27DD1FFD6B}|..\\GreatestProduct\\GreatestProduct.csproj|d:\\c# assignments\\greatestproduct\\greatprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|d:\\c# assignments\\assignment c#-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9104586E-0C93-4DC9-AC5A-68E9BB19F516}|SubstringCount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +65,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# assignments\\FloatConvert\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FloatConvert\\Program.cs",
+              "ToolTip": "D:\\c# assignments\\FloatConvert\\Program.cs",
+              "RelativeToolTip": "..\\FloatConvert\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:49:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FloatConvertAdd.cs",
+              "DocumentMoniker": "D:\\c# assignments\\FloatConvert\\FloatConvertAdd.cs",
+              "RelativeDocumentMoniker": "..\\FloatConvert\\FloatConvertAdd.cs",
+              "ToolTip": "D:\\c# assignments\\FloatConvert\\FloatConvertAdd.cs",
+              "RelativeToolTip": "..\\FloatConvert\\FloatConvertAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:37:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloatAddTests.cs",
+              "DocumentMoniker": "D:\\c# assignments\\FloatConvertTest\\FloatAddTests.cs",
+              "RelativeDocumentMoniker": "..\\FloatConvertTest\\FloatAddTests.cs",
+              "ToolTip": "D:\\c# assignments\\FloatConvertTest\\FloatAddTests.cs",
+              "RelativeToolTip": "..\\FloatConvertTest\\FloatAddTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:36:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# assignments\\GreatestProduct\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GreatestProduct\\Program.cs",
+              "ToolTip": "D:\\c# assignments\\GreatestProduct\\Program.cs",
+              "RelativeToolTip": "..\\GreatestProduct\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:36:55.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreatProd.cs",
+              "DocumentMoniker": "D:\\c# assignments\\GreatestProduct\\GreatProd.cs",
+              "RelativeDocumentMoniker": "..\\GreatestProduct\\GreatProd.cs",
+              "ToolTip": "D:\\c# assignments\\GreatestProduct\\GreatProd.cs",
+              "RelativeToolTip": "..\\GreatestProduct\\GreatProd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:36:52.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "substringcheck.cs",
               "DocumentMoniker": "D:\\c# assignments\\assignment c#-1\\substringcheck.cs",
               "RelativeDocumentMoniker": "substringcheck.cs",
@@ -62,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c# assignments\\assignment c#-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -70,8 +148,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T09:19:22.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T09:19:22.612Z"
             }
           ]
         }

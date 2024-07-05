@@ -5,9 +5,9 @@ class Program
     {
         FloatConvertAdd firstFloat = new FloatConvertAdd();
         FloatConvertAdd secondFloat = new FloatConvertAdd();
-        Console.Write("Enter the first float value: ");
+        Console.Write("Enter the first float value whose length does not exceed 6 digits: ");
         float float1 = float.Parse(Console.ReadLine());
-        Console.Write("Enter the second float value: ");
+        Console.Write("Enter the second float value whose length does not exceed 6 digits: ");
         float float2 = float.Parse(Console.ReadLine());
         // converting integer part of float to binary values
         string binaryIntPart1 = firstFloat.ConvertToBinary((int)float1);
