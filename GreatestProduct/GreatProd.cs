@@ -8,7 +8,7 @@ using System;
 namespace GreatestProduct
     //
 {
-    internal class GreatProd
+    public class GreatProd
     {
         public long MaxProduct(string number)
         {

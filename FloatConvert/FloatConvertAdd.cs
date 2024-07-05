@@ -3,7 +3,7 @@
     /// <summary>
     /// 
     /// </summary>
-    class FloatConvertAdd
+    public class FloatConvertAdd
     {
         
 

@@ -1,0 +1,15 @@
+D:\c# assignments\assignment c#-1\bin\Debug\net8.0\SubstringCount.exe
+D:\c# assignments\assignment c#-1\bin\Debug\net8.0\SubstringCount.deps.json
+D:\c# assignments\assignment c#-1\bin\Debug\net8.0\SubstringCount.runtimeconfig.json
+D:\c# assignments\assignment c#-1\bin\Debug\net8.0\SubstringCount.dll
+D:\c# assignments\assignment c#-1\bin\Debug\net8.0\SubstringCount.pdb
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.AssemblyInfoInputs.cache
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.AssemblyInfo.cs
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.csproj.CoreCompileInputs.cache
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.sourcelink.json
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.dll
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\refint\SubstringCount.dll
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.pdb
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\SubstringCount.genruntimeconfig.cache
+D:\c# assignments\assignment c#-1\obj\Debug\net8.0\ref\SubstringCount.dll
