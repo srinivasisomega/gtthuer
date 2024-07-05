@@ -8,7 +8,7 @@ namespace SubString_Test
     public class SubstringCheckTests
     {
         [TestMethod]
-        public void SubstringOccurs_WhenValidInputs_ReturnsCorrectCount()
+        public void ValidInputs_ReturnsCorrectCount()
         {
             // Arrange
             string mainString = "abababab";
@@ -23,7 +23,7 @@ namespace SubString_Test
         }
 
         [TestMethod]
-        public void SubstringOccurs_WhenEmptySubstring_ThrowsArgumentOutOfRangeException()
+        public void EmptySubstring()
         {
             // Arrange
             string mainString = "abababab";
@@ -35,7 +35,7 @@ namespace SubString_Test
         }
 
         [TestMethod]
-        public void SubstringOccurs_WhenSubstringLongerThanMainString_ThrowsArgumentOutOfRangeException()
+        public void SubstringLongerThanMainString()
         {
             // Arrange
             string mainString = "ab";
@@ -47,7 +47,7 @@ namespace SubString_Test
         }
 
         [TestMethod]
-        public void SubstringOccurs_WhenMainStringContainsDigits_ThrowsArgumentException()
+        public void MainStringContainsDigits()
         {
             // Arrange
             string mainString = "ab12abab";
@@ -59,7 +59,7 @@ namespace SubString_Test
         }
 
         [TestMethod]
-        public void SubstringOccurs_WhenSubstringContainsDigits_ThrowsArgumentException()
+        public void WhenSubstringContainsDigits()
         {
             // Arrange
             string mainString = "abababab";
@@ -71,7 +71,7 @@ namespace SubString_Test
         }
 
         [TestMethod]
-        public void SubstringOccurs_WhenMainStringAndSubstringContainDigits_ThrowsArgumentException()
+        public void MainStringAndSubstringContainDigits()
         {
             // Arrange
             string mainString = "ab1abab";
@@ -84,81 +84,3 @@ namespace SubString_Test
     }
 }
 
-//namespace SubString_Test
-//{
-//    [TestClass]
-//    public class SubstringTest
-//    {
-
-//        [TestMethod]
-//        public void BasicTest()
-//        {
-//            //arrange//
-//            string mainString = "deettresaatteefghtt";
-//            string subString = "tt";
-//            int expected = 3;
-//            //arrange//
-//            //Act//
-//            SubstringCheck firstSubstring = new SubstringCheck(mainString, subString);
-//            int actual = firstSubstring.SubstringOccurs();
-//            //Act//
-//            //assert//
-//            Assert.AreEqual(actual, expected);
-//            //assert//
-//        }
-//        [TestMethod]
-//        //public void SubstringGreaterTest()
-//        //{
-//        //    // Arrange
-//        //    string mainString = "223";
-//        //    string subString = "223445";
-
-//        //    // Act & Assert
-//        //    SubstringCheck secondSubstring = new SubstringCheck(mainString, subString);
-//        //    secondSubstring.SubstringOccurs();
-//        //    // If the exception is thrown, the test will pass. 
-//        //    // If no exception is thrown, the test will fail with the message below.
-//        //    Assert.Fail("Expected ArgumentException was not thrown.");
-//        //}
-
-//        public void SubstringGreaterTest()
-//        {
-//            // Arrange
-//            string mainString = "asd";
-//            string subString = "aaaaa";
-
-//            try
-//            {
-//                // Act
-//                SubstringCheck secondSubstring = new SubstringCheck(mainString, subString);
-//                secondSubstring.SubstringOccurs();
-
-//                // If no exception is thrown, fail the test
-//                Assert.Fail("Expected ArgumentOutOfRangeException was not thrown.");
-//            }
-//            catch (ArgumentOutOfRangeException ex)
-//            {
-//                // Assert
-//                Assert.AreEqual("substring length should not be greater than main string length", ex.Message);
-//            }
-//        }
-
-//        [TestMethod]
-//        public void MethodInputDigitCheckTest()
-//        {
-//            //arrange//
-//            string mainString = "ar31rvuvbbybbidbb2314";
-//            string subString = "bb";
-//            int expected = 0;
-//            //arrange//
-//            //Act//
-//            SubstringCheck secondSubstring = new SubstringCheck(mainString, subString);
-//            int actual = secondSubstring.SubstringOccurs();
-//            //Act//
-//            //assert//
-//            Assert.AreEqual(expected, actual);
-//            //assert//
-//        }
-
-//    }
-//}

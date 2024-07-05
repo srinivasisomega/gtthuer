@@ -1,39 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System;
-
+﻿
 namespace GreatestProduct
-    //
 {
+    /// <summary>
+    /// Class to find the maximum product of four adjacent digits in a given number string.
+    /// </summary>
     public class GreatProd
     {
+        /// <summary>
+        /// Finds the maximum product of four adjacent digits in the given number string.
+        /// </summary>
+        /// <param name="number">The string representation of the number.</param>
+        /// <returns>The maximum product of four adjacent digits.</returns>
         public long MaxProduct(string number)
         {
             int length = number.Length;
             long maxProduct = 0;
-            //the first loop(outer loop) increments 0 to length_of_number-4, because inner loop will go out of out of bounds.
+
+            // Iterate through the number string to find the maximum product of four adjacent digits
             for (int i = 0; i <= length - 4; i++)
             {
-                //
                 long product = 1;
-                //the inner loop increments from i value to i+3 index.
+
+                // Calculate product of four adjacent digits starting at index i
                 for (int j = 0; j < 4; j++)
                 {
                     int digit = Convert.ToInt32(number[i + j].ToString());
-                    //the digit in current value of i is multiplied with 3 digits followed by current i value.
                     product *= digit;
                 }
+
+                // Update maxProduct if current product is greater
                 if (product > maxProduct)
                 {
                     maxProduct = product;
                 }
             }
+
             return maxProduct;
         }
     }
-
-    
 }
+

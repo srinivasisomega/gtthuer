@@ -1,28 +1,36 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using SubstringCount;
 
-class Program
+namespace SubstringCount
 {
-    static void Main(string[] args)
+    class Program
     {
-        try
+        static void Main(string[] args)
         {
-            Console.WriteLine("Enter the main string:");
-            string mainString = Console.ReadLine();
+            try
+            {
+                // Prompt user for main string and substring
+                Console.WriteLine("Enter the main string:");
+                string mainString = Console.ReadLine();
 
-            Console.WriteLine("Enter the substring:");
-            string subString = Console.ReadLine();
+                Console.WriteLine("Enter the substring:");
+                string subString = Console.ReadLine();
 
-            SubstringCheck stringCheck1 = new SubstringCheck(mainString, subString);
-            stringCheck1.SubstringOccurs();
-        }
-        catch (ArgumentOutOfRangeException ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine(ex.Message);
+                // Create instance of SubstringCheck class
+                SubstringCheck stringCheck1 = new SubstringCheck(mainString, subString);
+                // Call SubstringOccurs method to find occurrences
+                stringCheck1.SubstringOccurs();
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                // Catch ArgumentOutOfRangeException and display message
+                Console.WriteLine(ex.Message);
+            }
+            catch (ArgumentException ex)
+            {
+                // Catch ArgumentException and display message
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

@@ -25,8 +25,8 @@ namespace FloatConvertTest
             string binaryIntPart1 = firstFloat.ConvertToBinary((int)float1);
             string binaryIntPart2 = secondFloat.ConvertToBinary((int)float2);
             // Converting decimal values to binary values
-            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1, 50);
-            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2, 50);
+            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1);    
+            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2);
             // Adding binary forms of integer part
             string binaryIntSum = secondFloat.AddBinaryIntegers(binaryIntPart1, binaryIntPart2);
             // Adding binary forms of decimal values
@@ -57,8 +57,8 @@ namespace FloatConvertTest
             string binaryIntPart1 = firstFloat.ConvertToBinary((int)float1);
             string binaryIntPart2 = secondFloat.ConvertToBinary((int)float2);
             // Converting decimal values to binary values
-            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1, 50);
-            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2, 50);
+            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1);
+            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2);
             // Adding binary forms of integer part
             string binaryIntSum = secondFloat.AddBinaryIntegers(binaryIntPart1, binaryIntPart2);
             // Adding binary forms of decimal values
@@ -89,8 +89,8 @@ namespace FloatConvertTest
             string binaryIntPart1 = firstFloat.ConvertToBinary((int)float1);
             string binaryIntPart2 = secondFloat.ConvertToBinary((int)float2);
             // Converting decimal values to binary values
-            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1, 50);
-            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2, 50);
+            string binaryDecPart1 = firstFloat.ConvertDecimalToBinary(float1 - (int)float1);
+            string binaryDecPart2 = secondFloat.ConvertDecimalToBinary(float2 - (int)float2);
             // Adding binary forms of integer part
             string binaryIntSum = secondFloat.AddBinaryIntegers(binaryIntPart1, binaryIntPart2);
             // Adding binary forms of decimal values

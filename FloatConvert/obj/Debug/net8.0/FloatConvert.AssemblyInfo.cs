@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FloatConvert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb6f72f36c65a5dec0bbcd90023c36b7bf4785c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf645cee914f93f2bfe41800227235fe4a8f6cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FloatConvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FloatConvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

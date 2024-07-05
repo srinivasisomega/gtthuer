@@ -18,29 +18,49 @@ namespace GreatProdTest
             }
 
             [Test]
-            public void MaxProduct_Returns_Correct_Result()
+            public void MaxProductReturnsCorrectResult()
             {
-                // Arrange
-                string number = "123456789"; // Example input
+                /// Arrange///
+                string number = "123456789";
+                /// Arrange///
 
-                // Act
+                /// Act ///
                 long result = _greatProd.MaxProduct(number);
+                ///Act///
 
-                // Assert
-                Assert.AreEqual(3024, result); // Replace with expected result based on your implementation
+                /// Assert ///
+                Assert.AreEqual(3024, result);
+                ///Assert///
             }
 
             [Test]
-            public void MaxProduct_Throws_Exception_On_NonNumeric_Input()
+            public void MaxProductThrowsExceptionOnNonNumericInput()
             {
-                // Arrange
-                string number = "1234abc56789"; // Input with letters
+                /// Arrange///
+                string number = "1234abc56789"; 
+                ///Arrange///
 
-                // Act & Assert
+                /// Act & Assert///
                 Assert.Throws<FormatException>(() => _greatProd.MaxProduct(number));
+                /// Act & Assert///
+
             }
 
-            // Add more tests as needed for different scenarios
+            [Test]
+            public void MaxProductWhenZero()
+            {
+                ///Arrange///
+                string number = "309870123";
+                ///Arrange//
+                ///Act///
+                long result = _greatProd.MaxProduct(number);
+                ///Act///
+                ///Assert///
+                Assert.AreEqual(0, result);
+                ///Assert///
+                
+
+            }
         }
 
     }
